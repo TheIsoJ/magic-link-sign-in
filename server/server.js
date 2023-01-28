@@ -13,7 +13,7 @@ const USERS = [
     {
         id: 1,
         name: "Jesse",
-        email: "juiceneblueyt@gmail.com"
+        email: process.env.LOGIN_EMAIL
     }
 ]
 
